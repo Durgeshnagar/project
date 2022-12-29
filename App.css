@@ -1,0 +1,136 @@
+.app {
+    margin-top: 48px;
+}
+
+.nav-item {
+    background-color: darkcyan;
+    display: flex;
+    text-align-last: center;
+   font-style: normal;
+    float: left;
+
+
+}
+
+.nav-link {
+    color: rgba(0, 0, 0, 0.507);
+}
+
+.nav-link:hover{
+color: black;
+}
+
+.h3 {
+    font: bold;
+}
+
+.d-block {
+    width: 100%;
+
+
+}
+
+.container {
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+}
+
+.card {
+    height: 250px;
+
+}
+
+.container img {
+
+    height: 100px;
+    justify-content: center;
+}
+
+.loginpage {
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.btn {
+    background-color: rgb(192, 103, 19);
+    size: unset;
+    margin-top: 3%;
+}
+
+.btn.nav-link:hover {
+
+    color: rgb(226, 228, 95);
+
+
+}
+
+.container2 {
+    height: 380px;
+
+    width: 800px;
+    padding-top: 5%;
+    border: solid;
+    background-color: rgb(139, 223, 235);
+    margin-left: 5%;
+}
+
+.box {
+
+    height: 320px;
+
+    width: 500px;
+
+    margin-left: 17%;
+
+}
+
+.container3 {
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 22%;
+    /* background-color: rgb(125, 145, 140); */
+
+    width: 510px;
+
+}
+
+.container4 {
+
+    border: black;
+    margin-left: 12%;
+    margin-top: 10%;
+}
+
+/* login page */
+.container5 {
+
+
+    background-color: aqua;
+    height: 300px;
+    width: 60%;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 10%;
+}
+
+.button {
+    margin-top: 3%;
+    color: darkblue;
+}
+
+.box2 {
+
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    padding-top: 5%;
+   
+    margin-left: 25%;
+}
